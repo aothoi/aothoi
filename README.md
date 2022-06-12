@@ -45,6 +45,13 @@
 
 <hr>
 
+<h3>🌱  I'm currently learning...</h3>
+<p >
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=4EA94B" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp
+</p>
+
+<hr>
+
 <h3> 📈  Stats</h3>
 
 ![Aothoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=suppaGonzal0&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;
