@@ -1,7 +1,7 @@
-<h1 align='center'> Hello 👋, I'm Aothoi  👩‍💻 </h1>
+<h1 align='center'> Hello 👋, I'm Mehzabin  👩‍💻 </h1>
 
 <p align='center'>
-  I am an aspiring Web Developer
+  Software Engineer & Web Developer
 </p>
 
 <p align='center'>
