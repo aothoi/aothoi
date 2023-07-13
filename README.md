@@ -17,9 +17,17 @@
 
 <h3>💻  Current Skills </h3>
 
+<h4> Language </h4>
+<p >
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=ED8B00" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=blue">&nbsp;&nbsp;
+
+
+<hr>
+
+
 <h4> Frontend </h4>
 <p >
-  <img src="https://img.shields.io/badge/html5-20232A?&style=for-the-badge&logo=html5&logoColor=23e34f26" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-20232A?&style=for-the-badge&logo=css3&logoColor=1572B6" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/html5-20232A?&style=for-the-badge&logo=html5&logoColor=23e34f26" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-20232A?&style=for-the-badge&logo=css3&logoColor=1572B6" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=BD002E" />&nbsp;&nbsp;
 </p>
 
 
@@ -34,25 +42,12 @@
 
 <h4> Database </h4>
 <p >
-  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=005C84" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=316192" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=005C84" />&nbsp;&nbsp;
 </p>
 
 
 <hr>
 
-<h4> Language </h4>
-<p >
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=ED8B00" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=blue">&nbsp;&nbsp;
-
-
-<hr>
-
-<h3>🌱  I'm currently learning...</h3>
-<p >
-  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=4EA94B" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp
-</p>
-
-<hr>
 
 <h3> 📈  Stats</h3>
 
