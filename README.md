@@ -6,8 +6,8 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/mehzabin-sadat-aothoi-4979081a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/suppaGonzal0/"><img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wakatime.com/@suppaGonzalo"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/aothoi/"><img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wakatime.com/@aothoi"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mehzabin.hashnode.dev/"><img src="https://img.shields.io/badge/Hasnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
